@@ -26,7 +26,7 @@ Additional description about the project and its features.
 
 In this project:
 - Using LocalStorage for Score
--
+- Use Setted Timers and random events
 
 
 
