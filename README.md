@@ -1,5 +1,5 @@
 # Whack-a-mole
-## Whack-a-mole with hard mode and localstorage score
+## Whack-a-mole game with hard mode and localstorage score
 
 
 
